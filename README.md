@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tanvi Sudhalkar
-- 👀 I’m a Frontend Web Developer with over 4 yeaes of experience
+- 👀 I’m a Frontend Web Developer with over 4 years of experience
 - 🌱 I’m currently looking for a job in Canada
-- 💞️ Any advise is accepted
+- 💞️ Any tech advise is accepted
 - 📫 How to reach me: tanvi1sudhalkar@gmail.com
 
 <!---
